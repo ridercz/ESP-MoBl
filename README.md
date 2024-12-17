@@ -1,8 +1,12 @@
 # ESP-MoBl
 
+![Final result](./img/final.jpg)
+
 For a game I organised for my friends, I needed something that could send a message in morse code by flashing a string of xmass lights. 
 
 So I built a nice solution using a board I've had around for a while, which has an ESP8266 chip and an 18650 battery holder, so it's pretty self-sufficient.
+
+For description how it works see the [Z-TECH video on YouTube](https://youtu.be/yBpYOMs6eSM) (Czech only).
 
 ## Functionality
 
